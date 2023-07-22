@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Homepage</title>
-    <link>https://example.com/categories/</link>
+    <link>https://scandari.github.io/categories/</link>
     <description>Recent content in Categories on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>&amp;copy; Copyright 2023</copyright>
-    <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://scandari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astronomia</title>
-      <link>https://example.com/categories/astronomia/</link>
+      <link>https://scandari.github.io/categories/astronomia/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/astronomia/</guid>
+      <guid>https://scandari.github.io/categories/astronomia/</guid>
       <description></description>
     </item>
     
